@@ -12,3 +12,5 @@ magicaVoxel: Use magicaVoxel to build a 3D pixel display to decorate all the vis
 Data wrapper mapping: Use the Data wrapper to make five maps for the distribution of the restaurants.
 Scrollama storytelling: Use Scrollama to fulfill the scroll telling, The map would change when the text is scrolling to a different part.
 D3 Tooltips: Use D3 Tooltips to make a bar chart of the most violated regulations and pop up the frequency and the meaning of the regulations.
+
+Links to my write up file:https://docs.google.com/document/d/1bh9TBzyE1pGSgHOYtqpQwFRNn4H-n-ZQyvgtMgIAmns/edit?usp=sharing
